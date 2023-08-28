@@ -1,3 +1,4 @@
+Here is a new first text to word.
 Here is another file.
 You forgot to put in a middle line.
 It is a wonderful file
