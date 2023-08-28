@@ -2,4 +2,9 @@ Here is a new first text to word.
 Here is another file.
 You forgot to put in a middle line.
 It is a wonderful file
+<<<<<<< HEAD
 I like this file.
+=======
+I like this file.
+jdndi
+>>>>>>> 1b52ed231a5e1284d4e92ce3db3f7f4881eaa066
